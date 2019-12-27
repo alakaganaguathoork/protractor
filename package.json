@@ -9,14 +9,9 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "jasmine-node": "^3.0.0",
-    "protractor-jasmine2-screenshot-reporter": "^0.5.0"
+    "jasmine-node": "^3.0.0"
   },
   "dependencies": {
-    "allure": "0.0.0",
-    "allure-commandline": "^2.13.0",
-    "jasmine-allure-reporter": "^1.0.2",
-    "protractor-html-reporter-2": "^1.0.4",
     "typescript": "^3.7.4"
   }
 }
